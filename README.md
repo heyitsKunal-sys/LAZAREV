@@ -5,11 +5,8 @@ This project focuses on modern UI/UX design, smooth animations, responsive layou
 
 🌐 Live Preview
 
-Add your deployed link here:
-
-https://your-live-demo-link.com
-
-
+ deployed link here:
+ lazarev-clone-plum.vercel.app
 
 📌 Features
 Fully Responsive Design 📱💻
