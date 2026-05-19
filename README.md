@@ -9,9 +9,9 @@ This project focuses on modern UI/UX design, smooth animations, responsive layou
  lazarev-clone-plum.vercel.app
 
 ScreenShots:
-<img src="Snaps/Screenshot 2026-05-19 212002.png" alt="Lazarev Agency Clone Screenshot" width="600" height="400"> 
-<img src="Snaps/Screenshot 2026-05-19 212020.png" alt="Lazarev Agency Clone Screenshot" width="600" height="400"> 
-<img src="Snaps/Screenshot 2026-05-19 212039.png" alt="Lazarev Agency Clone Screenshot" width="600" height="400"> 
+<img src="Snaps/Screenshot 2026-05-19 212002.png" alt="Lazarev Agency Clone Screenshot" > 
+<img src="Snaps/Screenshot 2026-05-19 212020.png" alt="Lazarev Agency Clone Screenshot" > 
+<img src="Snaps/Screenshot 2026-05-19 212039.png" alt="Lazarev Agency Clone Screenshot" > 
 
 📌 Features
 Fully Responsive Design 📱💻
